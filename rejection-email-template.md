@@ -8,13 +8,13 @@
 
 Hi [Candidate Name],
 
-Thank you for taking the time to meet with [Company Name] — it was great learning more about you.
+Thank you for meeting with [Company Name] — we enjoyed learning more about you.
 
-After careful consideration, the team has decided to move in a different direction for this role. We received strong interest from many candidates, and this decision is not a reflection of your skills or talent.
+The team has decided to move in a different direction for this role. We received strong interest from many candidates, and this decision does not reflect your skills or talent.
 
-We would love to stay connected as the team grows, and hope our paths align in the future.
+We want to stay connected as the team grows and look forward to crossing paths again.
 
-Best of luck in your search — we hope you land something great.
+Best of luck — we know you will land something great.
 
 Regards,
 [Your Name]
